@@ -119,24 +119,28 @@ body .il { color: #666666 } /* Literal.Number.Integer.Long */
     <span class="k">if</span> <span class="s2">&quot;punk&quot;</span> <span class="ow">in</span> <span class="n">orig_val</span> <span class="ow">or</span> <span class="p">(</span><span class="n">orig_val</span> <span class="o">==</span> <span class="s2">&quot;dutch prog&quot;</span><span class="p">):</span>
         <span class="k">return</span> <span class="s2">&quot;rock&quot;</span>
 
-    <span class="k">if</span> <span class="n">orig_val</span> <span class="o">==</span> <span class="s2">&quot;motown&quot;</span> <span class="ow">or</span> <span class="n">orig_val</span> <span class="o">==</span> <span class="s2">&quot;adult standards&quot;</span><span class="p">:</span>
+    <span class="k">if</span> <span class="p">(</span><span class="n">orig_val</span> <span class="o">==</span> <span class="s2">&quot;motown&quot;</span><span class="p">)</span> <span class="ow">or</span> <span class="p">(</span><span class="n">orig_val</span> <span class="o">==</span> <span class="s2">&quot;adult standards&quot;</span><span class="p">):</span>
         <span class="k">return</span> <span class="s2">&quot;oldies&quot;</span>
 
     <span class="k">if</span> <span class="s2">&quot;rap&quot;</span> <span class="ow">in</span> <span class="n">orig_val</span><span class="p">:</span>
         <span class="k">return</span> <span class="s2">&quot;hip hop&quot;</span>
 
-    <span class="k">return</span> <span class="n">orig_val</span>
+    <span class="k">return</span> <span class="bp">None</span>
 
 
 <span class="n">spotify_data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;csv/Spotify-2000.csv&quot;</span><span class="p">)</span>
-<span class="c1"># print(spotify_data[&quot;TopGenre&quot;])</span>
-<span class="k">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">unique</span><span class="p">(</span><span class="n">spotify_data</span><span class="p">[</span><span class="s2">&quot;TopGenre&quot;</span><span class="p">])))</span>
-<span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">unique</span><span class="p">(</span><span class="n">spotify_data</span><span class="p">[</span><span class="s2">&quot;TopGenre&quot;</span><span class="p">]))</span><span class="o">.</span><span class="n">to_html</span><span class="p">(</span>
-    <span class="s2">&quot;html/unique-genres.html&quot;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
 
+<span class="c1"># apply function to each record, apply to TopGenre column</span>
 <span class="n">spotify_data</span><span class="p">[</span><span class="s2">&quot;TopGenre&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="n">spotify_data</span><span class="p">[</span><span class="s2">&quot;TopGenre&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span><span class="n">clean_genres</span><span class="p">)</span>
-<span class="k">print</span><span class="p">(</span><span class="n">spotify_data</span><span class="p">[</span><span class="s2">&quot;TopGenre&quot;</span><span class="p">])</span>
-<span class="k">print</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">unique</span><span class="p">(</span><span class="n">spotify_data</span><span class="p">[</span><span class="s2">&quot;TopGenre&quot;</span><span class="p">]))</span>
+
+<span class="c1"># remove songs that we were unable to manually narrow down</span>
+<span class="n">spotify_data</span> <span class="o">=</span> <span class="n">spotify_data</span><span class="o">.</span><span class="n">dropna</span><span class="p">()</span>
+<span class="n">spotify_data</span> <span class="o">=</span> <span class="n">spotify_data</span><span class="o">.</span><span class="n">drop</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span><span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;Index&#39;</span><span class="p">])</span>
+
+<span class="c1"># verify shape</span>
+<span class="k">print</span><span class="p">(</span><span class="n">spotify_data</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>
+
+<span class="c1"># output to HTML files for presentation and to CSV</span>
 
 <span class="n">spotify_data</span><span class="o">.</span><span class="n">head</span><span class="p">()</span><span class="o">.</span><span class="n">to_html</span><span class="p">(</span><span class="s2">&quot;html/head.html&quot;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
 <span class="n">spotify_data</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s2">&quot;csv/spotify-2000-clean.csv&quot;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="bp">False</span><span class="p">)</span>
