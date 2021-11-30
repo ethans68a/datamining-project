@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def clean_genres(orig_val):
     easy_replace_list = ["alternative", "blues", "dance", "jazz", "metal", "country", "folk",
                          "rock", "funk", "pop", "hip hop", "soul", "latin", "reggae"]
@@ -29,18 +30,18 @@ def clean_genres(orig_val):
     if "rap" in orig_val:
         return "hip hop"
 
-
     return orig_val
 
 
 spotify_data = pd.read_csv("csv/Spotify-2000.csv")
 # print(spotify_data["TopGenre"])
 print(len(pd.unique(spotify_data["TopGenre"])))
-pd.DataFrame(pd.unique(spotify_data["TopGenre"])).to_html("html/unique-genres.html",index=False)
+pd.DataFrame(pd.unique(spotify_data["TopGenre"])).to_html(
+    "html/unique-genres.html", index=False)
 
 spotify_data["TopGenre"] = spotify_data["TopGenre"].apply(clean_genres)
 print(spotify_data["TopGenre"])
 print(pd.unique(spotify_data["TopGenre"]))
 
-spotify_data.head().to_html("html/head.html",index=False)
+spotify_data.head().to_html("html/head.html", index=False)
 spotify_data.to_csv("csv/spotify-2000-clean.csv", index=False)
