@@ -29,7 +29,7 @@ def clean_genres(orig_val):
     return None
 
 
-spotify_data = pd.read_csv("Spotify-2000.csv")
+spotify_data = pd.read_csv("csv/Spotify-2000.csv")
 # print(spotify_data["TopGenre"])
 print(len(pd.unique(spotify_data["TopGenre"])))
 pd.DataFrame(pd.unique(spotify_data["TopGenre"])).to_html("html/unique-genres.html",index=False)
@@ -39,4 +39,4 @@ print(spotify_data["TopGenre"])
 print(len(pd.unique(spotify_data["TopGenre"])))
 
 spotify_data.head().to_html("html/head.html",index=False)
-spotify_data.to_csv("spotify-2000-clean.csv", index=False)
+spotify_data.to_csv("csv/spotify-2000-clean.csv", index=False)
