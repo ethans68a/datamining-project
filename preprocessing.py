@@ -29,7 +29,6 @@ def clean_genres(orig_val):
     if "rap" in orig_val:
         return "hip hop"
 
-    
 
     return orig_val
 
