@@ -26,7 +26,12 @@ def clean_genres(orig_val):
     if orig_val == "motown" or orig_val == "adult standards":
         return "oldies"
 
-    return None
+    if "rap" in orig_val:
+        return "hip hop"
+
+    
+
+    return orig_val
 
 
 spotify_data = pd.read_csv("csv/Spotify-2000.csv")
@@ -36,7 +41,7 @@ pd.DataFrame(pd.unique(spotify_data["TopGenre"])).to_html("html/unique-genres.ht
 
 spotify_data["TopGenre"] = spotify_data["TopGenre"].apply(clean_genres)
 print(spotify_data["TopGenre"])
-print(len(pd.unique(spotify_data["TopGenre"])))
+print(pd.unique(spotify_data["TopGenre"]))
 
 spotify_data.head().to_html("html/head.html",index=False)
 spotify_data.to_csv("csv/spotify-2000-clean.csv", index=False)
