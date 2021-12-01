@@ -1,12 +1,14 @@
 import pandas as pd
 import numpy as np
 import csv
+import itertools
+from sklearn.model_selection import train_test_split
 
 
 def del_unwanted_chars(orig_val_param):
-    if isinstance(orig_val_param,str):
+    if isinstance(orig_val_param, str):
         # orig_val = orig_val_param.replace("'", "")
-        orig_val = orig_val_param.replace('"',"")
+        orig_val = orig_val_param.replace('"', "")
         return orig_val
 
     return orig_val_param
@@ -65,3 +67,12 @@ spotify_data.head().to_html("html/head.html", index=False)
 spotify_data.to_csv("csv/spotify-2000-clean.csv",
                     index=False, quoting=csv.QUOTE_NONNUMERIC)
 spotify_data.to_json("json/spotify-2000-clean.json", orient="records")
+
+# create training and testing data sets
+training_test_list = train_test_split(
+    spotify_data, shuffle=True, train_size=0.70, test_size=0.30)
+
+labels = ["train", "test"]
+for (dataset, labels) in zip(training_test_list, labels):
+    dataset.to_csv(f"csv/spotify-2000-{labels}.csv",
+                   index=False, quoting=csv.QUOTE_NONNUMERIC)
