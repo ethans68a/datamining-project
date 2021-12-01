@@ -1,0 +1,508 @@
+"Title","Artist","TopGenre","Year","Beats Per Minute (BPM)","Energy","Danceability","Loudness (dB)","Liveness","Valence","Length (Duration)","Acousticness","Speechiness","Popularity"
+"The Next Episode","Dr. Dre","funk",1999,95,91,92,-2,9,31,"162",3,27,70
+"Kijk Omhoog","Nick & Simon","pop",2007,166,56,41,-5,19,47,"176",5,3,48
+"White Rabbit","Jefferson Airplane","rock",1967,107,29,55,-13,9,32,"151",49,3,69
+"When I Was Your Man","Bruno Mars","dance",2012,73,28,61,-9,9,39,"214",93,4,82
+"Livin' On A Prayer","Bon Jovi","metal",1986,123,89,53,-4,29,80,"249",8,3,83
+"Save Me - Remastered 2011","Queen","rock",1980,82,45,51,-7,13,33,"230",36,3,51
+"Zeg Maar Niets Meer - Remastered","Andre Hazes","pop",2015,95,79,36,-8,91,30,"167",16,4,26
+"Handle With Care","Traveling Wilburys","rock",1988,115,77,68,-6,25,71,"200",11,3,63
+"Old Man","Neil Young","rock",2004,141,30,71,-12,10,48,"203",44,3,44
+"Diamonds","The Boxer Rebellion","pop",2013,170,75,45,-6,18,42,"243",17,6,35
+"Don't Look Back","Boston","rock",1978,122,72,36,-10,36,47,"360",2,4,55
+"Hey Boy Hey Girl","The Chemical Brothers","alternative",1999,127,92,63,-5,11,36,"290",12,5,65
+"Worn Down Piano","The Mark & Clark Band","rock",1977,112,71,37,-10,13,32,"488",10,6,32
+"Take The Long Way Home - 2010 Remastered","Supertramp","rock",1979,77,70,41,-9,11,37,"309",22,3,64
+"Élan","Nightwish","metal",2015,128,58,57,-9,14,30,"287",1,3,58
+"In Dreams","Roy Orbison","oldies",1963,108,44,50,-10,13,71,"169",67,3,57
+"The Boys Are Back In Town","Thin Lizzy","rock",1976,81,71,45,-10,21,77,"267",23,5,74
+"People Are Strange","The Doors","rock",1967,119,47,70,-9,32,76,"130",69,4,70
+"Best of You","Foo Fighters","alternative",2005,130,94,37,-5,19,37,"256",0,7,75
+"Tougher Than the Rest","Bruce Springsteen","rock",1987,99,51,60,-11,11,60,"274",20,2,62
+"Just Give Me a Reason (feat. Nate Ruess)","P!nk","dance",2012,95,55,78,-7,13,44,"243",35,5,81
+"Gimme All Your Lovin'","ZZ Top","rock",1992,120,79,66,-7,6,71,"240",5,3,44
+"Shape of You","Ed Sheeran","pop",2017,96,65,83,-3,9,93,"234",58,8,87
+"Can't Stop","Red Hot Chili Peppers","alternative",2002,91,94,62,-3,17,88,"269",2,5,80
+"Walk of Life","Dire Straits","rock",1985,172,94,46,-7,12,80,"252",44,11,61
+"It's a Sin - 2001 Remaster","Pet Shop Boys","pop",1987,127,86,54,-6,25,29,"299",25,4,66
+"So Long","Fischer-Z","rock",1980,127,38,56,-15,5,89,"303",1,4,49
+"Man in the Mirror","Michael Jackson","pop",1995,100,80,79,-6,11,27,"319",43,4,64
+"Marian","The Cats","pop",1969,80,45,39,-10,19,39,"240",0,3,46
+"Du hast","Rammstein","alternative",1997,125,92,64,-6,33,72,"234",0,4,67
+"Jeremy","Pearl Jam","alternative",1991,109,85,28,-6,18,29,"318",4,4,73
+"Creep","Radiohead","alternative",1993,92,43,52,-10,13,10,"239",1,4,82
+"School","Supertramp","rock",1974,90,47,37,-15,7,5,"335",54,8,63
+"Gimme Shelter","The Rolling Stones","rock",1969,119,63,63,-8,17,49,"271",45,3,76
+"Omarm","BLØF","pop",2003,184,44,27,-9,10,8,"252",41,3,46
+"Oerend Hard","Normaal","rock",2008,127,66,66,-10,8,84,"225",12,10,52
+"Nothing Else Matters","Metallica","alternative",1991,142,36,56,-11,8,17,"389",5,3,69
+"Rocket Man (I Think It's Going To Be A Long, Long Time)","Elton John","rock",1972,137,53,60,-9,9,34,"282",43,3,82
+"Back To Black","Amy Winehouse","soul",2006,123,73,49,-3,10,34,"240",12,4,77
+"Layla","Derek & The Dominos","rock",2013,114,93,41,-5,60,39,"163",34,10,32
+"Up Where We Belong","Joe Cocker","rock",1993,139,43,57,-9,8,36,"233",60,3,54
+"Snow (Hey Oh)","Red Hot Chili Peppers","alternative",2006,105,90,43,-4,12,60,"335",12,5,80
+"Banger Hart - Radio Mix","Rob De Nijs","pop",2018,124,89,77,-9,6,97,"261",7,4,16
+"Man Down","Rihanna","pop",2010,156,91,48,-4,5,54,"267",4,19,59
+"Story of My Life","One Direction","pop",2013,121,66,60,-6,12,29,"245",23,5,80
+"Voodoo Child (Slight Return)","Jimi Hendrix","rock",1968,176,91,21,-7,5,45,"313",48,39,67
+"By the Way","Red Hot Chili Peppers","alternative",2002,122,97,45,-5,10,20,"217",3,11,74
+"Live And Let Die","Guns N' Roses","metal",1991,153,78,26,-9,12,26,"183",1,6,68
+"One Step Beyond","Madness","dance",1979,155,94,48,-5,41,94,"138",1,4,42
+"Fat Bottomed Girls - Single Version","Queen","rock",1978,88,69,43,-8,36,52,"203",6,6,51
+"Private Dancer - 2015 Remaster","Tina Turner","dance",1984,115,57,59,-10,9,47,"434",36,4,59
+"Sweet Home Alabama","Lynyrd Skynyrd","rock",1974,98,61,60,-12,9,89,"284",18,3,82
+"Heaven","Bryan Adams","rock",1984,140,59,38,-7,12,34,"243",5,3,76
+"Rearviewmirror (Remastered)","Pearl Jam","alternative",1993,159,96,37,-5,35,44,"283",0,7,58
+"Break on Through (To the Other Side)","The Doors","rock",1967,90,75,42,-10,17,79,"146",20,5,72
+"Wild Is the Wind - 2016 Remaster","David Bowie","rock",1976,98,58,52,-13,5,49,"366",2,3,53
+"Won't Get Fooled Again - Original Album Version","The Who","rock",1971,135,92,69,-6,8,23,"511",30,6,65
+"The Reflex","Duran Duran","dance",1998,127,90,56,-6,57,80,"267",12,10,50
+"Losing My Religion","R.E.M.","alternative",1991,126,86,67,-5,10,80,"268",18,3,81
+"I Just Can't Help Believin'","Elvis Presley","oldies",2016,142,66,46,-8,9,34,"274",28,5,44
+"Ship To Wreck","Florence + The Machine","pop",2015,142,92,56,-4,28,59,"235",0,3,54
+"Mr. Blue Sky","Electric Light Orchestra","rock",1977,178,34,39,-10,25,48,"303",65,3,80
+"Steppin' Out","Joe Jackson","rock",1982,159,54,58,-8,8,55,"259",5,3,48
+"I Want To Break Free","Queen","rock",2018,109,41,81,-9,8,50,"223",11,4,59
+"Red Red Wine","UB40","reggae",2000,89,47,86,-9,27,84,"184",0,5,74
+"Bullet The Blue Sky","U2","rock",1987,153,64,36,-10,13,45,"272",1,4,55
+"Plug in Baby","Muse","rock",2001,136,97,41,-4,11,35,"218",0,5,53
+"Solsbury Hill","Peter Gabriel","rock",1977,102,63,68,-9,31,48,"261",36,3,60
+"Nothing Breaks Like a Heart (feat. Miley Cyrus)","Mark Ronson","dance",2018,114,79,60,-6,39,24,"217",1,7,79
+"Brothers in Arms","Dire Straits","rock",1985,79,44,22,-9,12,13,"419",50,4,52
+"Narcotic - Long Version","Liquido","alternative",1998,102,59,59,-7,8,36,"278",0,3,42
+"Love Will Tear Us Apart - 2010 Remaster","Joy Division","alternative",2010,147,90,53,-9,14,91,"205",0,4,64
+"Keep on Loving You","REO Speedwagon","rock",1980,175,72,31,-6,12,41,"200",5,3,71
+"Elevation","U2","rock",2000,110,80,58,-8,5,42,"226",0,4,49
+"Everytime I Think of You - 2000 Remaster","The Babys","rock",1981,121,73,40,-6,20,49,"243",32,4,35
+"Chandelier","Sia","dance",2015,117,79,40,-3,7,57,"216",2,5,71
+"Faith","George Michael","dance",1998,96,50,92,-10,7,56,"194",1,10,46
+"Running Up That Hill (A Deal With God)","Kate Bush","pop",1985,108,55,63,-13,6,20,"299",72,6,67
+"Conquest of Paradise","Vangelis","rock",1992,74,30,43,-14,23,16,"278",70,3,61
+"Apache","The Shadows","oldies",1987,134,45,60,-13,10,78,"174",1,3,53
+"Baggy Trousers","Madness","dance",1980,145,89,64,-5,34,94,"167",14,4,33
+"Lea","The Cats","pop",1968,167,52,18,-8,6,42,"222",39,3,48
+"Proud Mary","Tina Turner","dance",1993,171,50,40,-11,11,37,"327",8,7,66
+"Somebody Told Me","The Killers","rock",2004,138,99,51,-3,12,65,"197",0,9,69
+"Hilversum 3","Herman van Veen","pop",1998,91,22,69,-15,11,47,"233",92,6,39
+"All I Want for Christmas Is You","Mariah Carey","dance",1994,150,63,34,-7,7,35,"241",16,4,95
+"I Want to Know What Love Is - 1999 Remaster","Foreigner","rock",1984,81,47,48,-10,13,42,"305",19,3,77
+"I'll Be Over You","TOTO","rock",1986,82,28,52,-18,26,41,"230",6,3,68
+"Mr. Bojangles - Single Version","Sammy Davis Jr.","oldies",2002,117,18,54,-13,11,13,"343",75,5,56
+"(Something Inside) So Strong","Labi Siffre","pop",1988,82,38,68,-10,10,23,"337",42,3,50
+"Immigrant Song - Remaster","Led Zeppelin","rock",1970,113,93,56,-10,35,62,"146",1,6,77
+"An American Trilogy","Elvis Presley","oldies",1995,84,13,21,-14,96,17,"272",73,3,31
+"Careless Whisper","George Michael","dance",1998,153,63,57,-9,27,79,"300",13,4,76
+"It's Raining Men","The Weather Girls","dance",2008,136,93,66,-6,70,46,"212",46,16,58
+"A Change Is Gonna Come","Sam Cooke","oldies",1964,174,38,21,-10,30,45,"191",72,3,66
+"Ode To My Family","The Cranberries","rock",1994,94,45,36,-10,28,14,"271",6,2,69
+"Droomland","Andre Hazes","pop",2012,100,47,32,-7,95,25,"208",26,3,42
+"Anarchy in the U.K.","Sex Pistols","rock",1977,134,98,32,-4,20,17,"212",4,12,54
+"It's My Life","Bon Jovi","metal",2000,120,91,55,-4,35,54,"224",3,5,77
+"Easy Livin'","Uriah Heep","rock",1972,161,84,26,-7,28,46,"157",0,10,56
+"39 - 2011 Mix","Queen","rock",1975,102,58,52,-10,11,34,"211",3,3,52
+"I Knew You Were Waiting (For Me)","George Michael","dance",1998,108,84,72,-5,24,68,"238",26,5,63
+"Who Wants To Live Forever - Remastered 2011","Queen","rock",1991,87,40,14,-9,12,4,"295",58,4,51
+"Alles Geprobeerd","Het Goede Doel","pop",1993,76,56,59,-15,8,84,"388",11,4,38
+"Boys Don't Cry - Single Version","The Cure","dance",1979,169,84,47,-6,11,69,"158",0,6,63
+"Drops of Jupiter","Train","dance",2001,79,64,47,-6,15,50,"260",15,3,77
+"Grace","Jeff Buckley","alternative",1994,128,87,55,-4,22,19,"322",3,4,59
+"The Boxer","Simon & Garfunkel","rock",1970,93,49,44,-14,16,63,"309",70,6,72
+"All Apologies","Nirvana","alternative",1993,113,63,45,-12,9,36,"233",8,3,67
+"Bad Liar","Imagine Dragons","rock",2018,178,64,38,-7,37,8,"261",7,7,83
+"Unchain My Heart","Joe Cocker","rock",1987,118,67,75,-13,32,70,"304",2,4,62
+"I've Just Lost Somebody","Golden Earring","rock",2011,88,40,37,-13,8,27,"189",4,3,27
+"Runnin' with the Devil - 2015 Remaster","Van Halen","rock",1978,96,90,47,-6,34,42,"215",15,6,70
+"Every Breath You Take","The Police","rock",1983,117,45,82,-10,7,74,"254",54,3,84
+"Little Red Rooster - Mono Version","The Rolling Stones","rock",1965,109,43,72,-12,10,67,"186",7,4,47
+"Fly Me To The Moon (In Other Words)","Frank Sinatra","oldies",1962,119,26,67,-14,6,37,"147",45,5,77
+"Father & Friend","Alain Clark","pop",2007,98,62,66,-9,7,66,"256",51,3,35
+"Tinseltown in the Rain","The Blue Nile","rock",1984,118,82,78,-7,8,91,"358",6,3,55
+"Sloop John B - Remastered","The Beach Boys","pop",1966,126,75,57,-5,9,90,"180",40,3,61
+"Take A Chance On Me","ABBA","pop",1977,107,69,69,-8,20,93,"244",17,3,63
+"Unwritten","Natasha Bedingfield","dance",2004,100,80,71,-6,8,63,"259",1,4,76
+"Il Volo","Zucchero","pop",1999,150,40,45,-12,6,17,"332",3,3,24
+"Sweet Caroline","Neil Diamond","oldies",1969,63,13,53,-16,24,58,"204",61,3,78
+"Dancing Queen","ABBA","pop",1976,101,88,54,-7,76,75,"231",38,4,72
+"Romeo and Juliet","Dire Straits","rock",1980,87,57,60,-8,8,49,"361",44,3,54
+"S.O.S.","ABBA","pop",1975,125,70,42,-6,33,56,"204",26,3,49
+"One Day Like This","Elbow","pop",2009,159,67,43,-6,14,38,"394",9,3,45
+"She's Always a Woman","Billy Joel","rock",1977,177,32,29,-12,12,38,"201",80,3,72
+"Winter","Tori Amos","pop",2012,78,20,24,-14,11,27,"345",98,3,19
+"There Is a Light That Never Goes Out - 2011 Remaster","The Smiths","dance",1986,136,77,52,-6,14,88,"245",4,3,73
+"The Lady In Red","Chris de Burgh","pop",1986,77,29,55,-17,4,49,"256",33,3,74
+"Late in the Evening","Paul Simon","rock",1980,119,88,72,-9,9,96,"243",20,4,58
+"Mrs. Robinson - From The Graduate Soundtrack","Simon & Garfunkel","rock",1968,92,46,61,-14,7,81,"244",71,5,76
+"Per Spoor (Kedeng Kedeng)","Guus Meeuwis","pop",1996,126,88,58,-7,15,79,"253",20,5,49
+"Castle on the Hill","Ed Sheeran","pop",2017,135,83,46,-5,14,47,"261",2,10,79
+"Take It to the Limit - 2013 Remaster","Eagles","rock",1975,91,42,44,-9,13,45,"287",9,2,63
+"Black Hole Sun","Soundgarden","alternative",1994,105,83,35,-5,8,15,"319",0,4,76
+"Land of Confusion - 2007 Remaster","Genesis","rock",1986,115,91,63,-7,23,81,"287",4,4,56
+"Money for Nothing","Dire Straits","rock",1985,134,66,67,-9,6,66,"506",5,4,62
+"One of These Nights - 2013 Remaster","Eagles","rock",1975,110,61,66,-10,8,77,"292",6,3,69
+"If I Were a Boy","Beyoncé","dance",2008,90,52,63,-6,35,43,"249",11,3,68
+"Numb / Encore","JAY-Z","hip hop",2004,107,79,69,-4,58,75,"206",6,17,75
+"Sad Man's Tongue","Volbeat","alternative",2007,110,96,43,-4,17,56,"186",0,4,57
+"Water Under the Bridge","Adele","soul",2016,95,84,60,-7,11,47,"240",2,7,67
+"Homburg - Single Version - 2009 Remaster - Mono","Procol Harum","rock",2019,142,66,36,-8,6,38,"237",10,3,32
+"No More Tears","Ozzy Osbourne","rock",1991,103,75,35,-7,65,32,"443",0,4,66
+"Paranoid Android","Radiohead","alternative",1997,164,85,25,-7,5,19,"387",4,6,67
+"Waterfront - 2002 Remaster","Simple Minds","rock",1983,120,79,54,-6,17,48,"290",0,3,54
+"Riddles","Kensington","pop",2014,148,70,49,-8,8,62,"209",4,4,52
+"Oh Well (Pt. 1) - 2013 Remaster","Fleetwood Mac","rock",1969,103,59,47,-10,14,22,"202",20,14,41
+"Forever Man - 2015 Remaster","Eric Clapton","rock",2015,111,90,64,-6,17,78,"192",20,4,46
+"Beautiful Day","U2","rock",2000,136,93,54,-6,36,45,"246",1,5,63
+"Don't Stop Me Now - 2011 Mix","Queen","rock",1978,156,87,56,-5,77,60,"209",5,16,76
+"Pride and Joy","Stevie Ray Vaughan","rock",1983,127,63,43,-12,11,74,"220",3,4,65
+"Accidentally In Love","Counting Crows","alternative",2004,138,93,55,-4,9,81,"189",4,4,59
+"Crime Of The Century","Supertramp","rock",1974,123,42,40,-14,7,23,"333",10,5,43
+"Mutter","Rammstein","alternative",2001,116,62,49,-7,13,8,"269",2,3,51
+"Friday I'm in Love","The Cure","dance",1992,136,76,53,-12,34,51,"214",0,3,67
+"Malle Babbe","Rob De Nijs","pop",2018,87,38,35,-10,12,53,"253",73,4,15
+"Nothing Really Matters","Mr. Probz","hip hop",2014,135,23,40,-9,11,28,"222",89,4,61
+"Jesus to a Child","George Michael","dance",1996,174,42,53,-12,8,19,"411",31,3,62
+"Ocean of Night","Editors","alternative",2015,106,67,57,-10,11,25,"305",2,3,58
+"Enjoy the Silence - Single Mix","Depeche Mode","dance",1990,113,81,64,-8,8,82,"257",16,3,65
+"Georgia on My Mind","Ray Charles","oldies",2011,131,32,29,-8,19,20,"215",86,3,49
+"Home","Michael Bublé","oldies",2005,128,37,61,-9,11,35,"226",84,3,64
+"Fantasy","Earth, Wind & Fire","dance",1977,89,75,61,-9,14,61,"277",32,9,48
+"Like a Hurricane - 2003 Remaster","Neil Young","rock",2004,114,83,42,-5,16,61,"501",1,4,49
+"Papaoutai","Stromae","pop",2013,116,81,73,-7,6,25,"232",3,8,55
+"Listen (From the Motion Picture Dreamgirls)","Beyoncé","dance",2006,123,59,48,-5,18,20,"218",27,5,44
+"Sandstorm - Radio Edit","Darude","dance",2007,136,98,54,-8,8,52,"225",17,5,61
+"She's Not There","Santana","blues",1977,130,70,48,-8,31,83,"249",40,4,52
+"Homesick","Dua Lipa","dance",2017,86,22,43,-9,11,40,"230",95,4,71
+"Woman from Tokyo","Deep Purple","rock",1973,127,54,58,-13,12,42,"349",14,4,37
+"Sometimes It Snows in April","Prince","funk",1986,104,6,49,-24,10,6,"409",83,4,53
+"We Are The Champions - Remastered 2011","Queen","rock",1977,64,46,27,-7,12,17,"179",38,3,66
+"Where The Streets Have No Name - Remastered","U2","rock",1987,126,72,49,-10,16,29,"338",1,4,66
+"Total Eclipse of the Heart","Bonnie Tyler","pop",1999,130,66,44,-8,10,18,"270",20,7,75
+"Kashmir - 1990 Remaster","Led Zeppelin","rock",1975,81,54,48,-11,16,58,"508",49,4,69
+"Keep The Faith","Bon Jovi","metal",1992,118,97,57,-4,8,57,"347",0,5,58
+"Alone","Heart","rock",1987,175,45,42,-13,10,17,"219",64,4,73
+"Year of the Cat - 2001 Remaster","Al Stewart","rock",1991,117,61,53,-10,12,53,"401",1,3,61
+"The Racing Rats","Editors","alternative",2007,153,84,32,-4,8,22,"258",0,5,43
+"La vie en rose","Grace Jones","rock",1977,177,48,65,-16,6,80,"448",23,6,58
+"Dancing in the Street - 2002 Remaster","David Bowie","rock",1985,131,82,60,-14,13,74,"205",12,4,57
+"Gangsta's Paradise","Coolio","funk",1995,80,51,65,-10,40,39,"241",7,6,80
+"Heavy Cross","Gossip","alternative",2009,120,69,79,-4,14,22,"243",8,3,59
+"Shiny Happy People","R.E.M.","alternative",1991,125,91,45,-4,23,81,"226",3,4,70
+"Oude Maasweg","The Amazing Stroopwafels","rock",1994,90,26,75,-15,12,13,"206",70,4,45
+"Vluchten Kan Niet Meer","Frans Halsema","rock",2018,87,25,41,-13,38,32,"221",74,3,17
+"Tribute","Tenacious D","alternative",2001,94,77,37,-6,9,42,"248",18,7,59
+"Red Eyes","The War On Drugs","pop",2014,162,82,46,-6,16,47,"299",1,4,65
+"Maggie May","Rod Stewart","oldies",1971,129,57,61,-11,7,54,"350",56,4,72
+"Gloria - Live","U2","rock",1983,147,95,26,-6,99,61,"287",0,10,39
+"Sunday Bloody Sunday - Remastered 2008","U2","rock",1983,101,94,54,-7,4,74,"279",40,5,72
+"Lola - Live","The Kinks","rock",1972,134,51,45,-16,72,56,"102",13,6,29
+"Stop Loving You","TOTO","rock",1988,102,65,56,-13,6,60,"269",23,3,63
+"Me Gustas Tu","Manu Chao","alternative",2001,176,74,66,-7,22,91,"240",66,8,70
+"Wind Of Change","Scorpions","rock",1990,152,52,45,-10,10,25,"312",32,4,77
+"Ruby Tuesday","The Rolling Stones","rock",1967,105,55,52,-11,17,52,"196",83,3,63
+"Hijo de la Luna","Mecano","latin",1998,179,54,45,-7,6,61,"266",68,3,62
+"Hallelujah","Leonard Cohen","folk",1984,171,34,28,-13,13,23,"277",72,3,67
+"Freak On a Leash","Korn","alternative",1998,103,90,35,-6,39,53,"256",0,5,73
+"Our House","Crosby, Stills, Nash & Young","rock",1970,140,21,59,-15,12,38,"180",90,5,68
+"Every Little Thing She Does Is Magic","The Police","rock",1981,82,77,56,-10,12,43,"261",12,3,73
+"Pumped Up Kicks","Foster The People","pop",2011,128,71,73,-6,10,97,"240",14,3,84
+"Echoes","Pink Floyd","rock",1971,134,32,28,-17,11,14,"1,412",37,4,58
+"High On Life (feat. Bonn)","Martin Garrix","dance",2018,128,49,41,-6,11,37,"231",1,3,78
+"Love Is All","Roger Glover","rock",1974,112,81,60,-5,85,77,"197",63,5,48
+"Love Is A Battlefield","Pat Benatar","rock",2001,91,63,67,-12,10,86,"245",1,5,54
+"Radioactive","Imagine Dragons","rock",2012,136,78,45,-4,67,24,"187",11,6,73
+"Hound Dog","Elvis Presley","oldies",1958,175,76,36,-8,76,95,"136",73,6,69
+"Alie","Normaal","rock",2008,93,77,52,-11,6,93,"181",14,6,42
+"My Heart Will Go On - Love Theme from Titanic","Céline Dion","pop",1997,99,28,43,-12,12,4,"280",73,3,75
+"Maid Of Orleans","Orchestral Manoeuvres In The Dark","rock",1988,110,53,52,-14,5,35,"252",7,3,34
+"Jesus He Knows Me","Genesis","rock",1999,95,87,60,-7,8,65,"256",57,4,18
+"Maybe Tomorrow","Stereophonics","pop",2003,81,65,50,-7,33,57,"273",22,4,64
+"Two Tribes","Frankie Goes To Hollywood","rock",1984,130,62,54,-13,37,20,"208",0,4,54
+"Let Her Go","Passenger","folk",2013,75,55,48,-7,10,24,"253",37,7,76
+"You Give Love A Bad Name","Bon Jovi","metal",1986,123,96,54,-3,34,81,"223",7,5,80
+"Zing Voor Me","Lange Frans","hip hop",2011,82,52,43,-9,22,56,"216",80,7,52
+"One (Remastered)","Metallica","alternative",1988,103,69,44,-9,42,43,"446",0,6,67
+"Don't Speak","No Doubt","alternative",1995,76,71,52,-7,18,54,"264",25,4,67
+"Boulevard of Broken Dreams","Green Day","rock",2017,167,68,50,-4,6,47,"262",1,3,74
+"When You Say Nothing At All","Ronan Keating","dance",2000,174,45,46,-11,8,42,"257",16,3,74
+"Perfect","Ed Sheeran","pop",2017,95,45,60,-6,11,17,"263",16,2,87
+"Happy New Year","ABBA","pop",1980,133,38,51,-9,12,26,"264",82,3,50
+"California Dreamin' - Single Version","The Mamas & The Papas","oldies",1966,112,61,55,-10,5,64,"162",35,3,76
+"No Woman, No Cry - Live At The Lyceum, London/1975","Bob Marley & The Wailers","reggae",1975,78,68,66,-9,73,59,"428",27,6,70
+"Street Spirit (Fade Out)","Radiohead","alternative",1995,138,45,49,-12,18,13,"254",31,3,62
+"IJskoud","Nielson","pop",2018,98,73,67,-7,37,15,"210",4,5,65
+"Shut Up and Dance","WALK THE MOON","pop",2014,128,87,58,-4,26,62,"199",1,6,82
+"Radio Ga Ga - 2011 Mix","Queen","rock",1984,112,50,74,-8,19,66,"348",18,4,66
+"Folsom Prison Blues","Johnny Cash","country",1964,111,53,69,-10,28,78,"156",19,3,58
+"No Rain","Blind Melon","alternative",1992,148,48,39,-9,26,57,"217",62,3,73
+"The Unforgiven II","Metallica","alternative",1997,133,88,49,-5,27,25,"396",0,4,55
+"You Have Been Loved","George Michael","dance",1996,137,24,61,-16,11,16,"331",24,3,53
+"Alive And Kicking","Simple Minds","rock",1985,103,91,57,-4,13,56,"289",8,4,64
+"I Can't Make You Love Me","George Michael","dance",1998,116,19,56,-13,11,12,"321",73,3,53
+"Still Got The Blues","Gary Moore","rock",1990,170,39,19,-14,12,32,"371",26,4,65
+"It's Raining Again","Supertramp","rock",1982,121,67,60,-7,26,56,"264",62,3,60
+"Chop Suey!","System Of A Down","alternative",2001,127,93,42,-4,13,29,"210",0,12,80
+"Bird of Paradise","Snowy White","blues",2003,144,44,47,-11,32,31,"281",60,4,52
+"Engel","Rammstein","alternative",1997,96,66,64,-6,30,33,"264",1,3,60
+"In Nije Dei","De Kast","pop",2004,130,49,41,-9,96,15,"296",51,3,38
+"If You Don't Know Me by Now - 2008 Remaster","Simply Red","soul",1989,94,35,64,-9,11,20,"204",49,3,72
+"Eloise","Barry Ryan","pop",1992,131,59,43,-12,36,46,"345",22,3,45
+"Walking On The Moon","The Police","rock",1979,146,34,51,-13,21,27,"301",0,5,64
+"You Ain't Seen Nothing Yet","Bachman-Turner Overdrive","rock",1974,118,44,48,-15,22,76,"235",0,4,69
+"You Got It","Roy Orbison","oldies",2010,115,59,66,-12,31,67,"204",60,3,44
+"(You're The) Devil in Disguise","Elvis Presley","oldies",2002,123,73,48,-8,11,87,"140",57,17,65
+"I Got You Babe","UB40","reggae",1985,174,61,76,-13,11,86,"189",8,7,65
+"Toveren","Herman van Veen","pop",1998,145,28,81,-15,21,81,"206",58,3,44
+"River Deep - Mountain High","Ike & Tina Turner","pop",1966,83,75,39,-7,14,27,"215",78,4,57
+"State of Independence","Donna Summer","dance",1982,170,70,75,-9,6,87,"351",18,14,42
+"Go With The Flow","Queens of the Stone Age","alternative",2002,159,99,24,-4,83,37,"187",1,10,58
+"Another 45 Miles","Golden Earring","rock",2008,91,59,56,-10,23,48,"284",28,3,50
+"Hou Vol Hou Vast","BLØF","pop",2018,86,61,51,-5,8,23,"295",0,2,12
+"Southern Man - 2009 Remaster","Neil Young","rock",1970,162,57,37,-9,13,66,"331",39,3,53
+"Amsterdam","Nothing But Thieves","alternative",2017,168,93,51,-5,24,67,"272",0,24,63
+"La solitudine","Laura Pausini","pop",1993,132,47,57,-6,15,26,"241",74,4,57
+"Changes","2Pac","funk",2007,111,66,87,-7,14,32,"269",4,8,72
+"Sorry Seems To Be The Hardest Word","Blue","pop",2004,79,60,56,-7,38,44,"210",18,3,58
+"Weather With You","Crowded House","pop",1991,94,61,64,-13,21,89,"224",25,3,69
+"Give Up Your Guns","The Buoys","alternative",1971,131,50,42,-13,20,66,"254",48,3,39
+"I Will Always Love You","Whitney Houston","dance",1992,67,21,31,-13,8,11,"271",84,4,77
+"Ain't No Sunshine","Bill Withers","soul",1971,80,42,48,-11,12,51,"125",46,12,76
+"The River","Bruce Springsteen","rock",1980,117,54,59,-11,31,59,"302",18,3,66
+"Glory Days","Bruce Springsteen","rock",1984,117,96,57,-5,12,98,"255",5,3,67
+"Biko","Peter Gabriel","rock",1980,179,36,53,-11,24,17,"452",28,4,36
+"Rape Me","Nirvana","alternative",1993,112,75,42,-11,7,23,"170",1,5,64
+"Human Nature","Michael Jackson","pop",1982,93,51,62,-10,26,69,"246",54,3,65
+"Goodbye Stranger - 2010 Remastered","Supertramp","rock",1979,125,67,42,-7,6,34,"351",61,5,66
+"Come As You Are","Nirvana","alternative",1991,120,82,50,-6,9,54,"219",0,4,72
+"Beast of Burden","Bette Midler","oldies",1983,105,79,58,-7,6,91,"226",1,3,53
+"Californication","Red Hot Chili Peppers","alternative",1999,96,77,59,-3,13,33,"330",0,3,81
+"Money","Pink Floyd","rock",1973,124,54,47,-10,27,78,"383",2,15,73
+"Psycho","Muse","rock",2015,125,88,56,-3,87,51,"317",0,3,69
+"I Will Follow - Live","U2","rock",1987,140,90,23,-7,96,49,"239",0,6,42
+"The Rose","Bette Midler","oldies",1979,134,23,35,-10,38,18,"221",90,3,67
+"Into Temptation","Crowded House","pop",1988,84,37,45,-16,8,26,"274",48,3,49
+"I Want It That Way","Backstreet Boys","pop",2001,99,70,69,-6,16,48,"214",22,3,77
+"I'm going home","Ten Years After","rock",2005,117,93,38,-2,81,40,"639",18,10,26
+"California Love","2Pac","funk",2014,92,88,66,-3,69,77,"348",3,9,41
+"9 Crimes","Damien Rice","pop",2006,74,17,33,-13,9,10,"219",91,3,57
+"Psycho Killer - 2005 Remaster","Talking Heads","alternative",1977,123,52,72,-8,13,94,"261",7,6,73
+"Feeling Good","Michael Bublé","oldies",2005,115,55,54,-7,12,48,"237",53,4,64
+"Master of Puppets (Remastered)","Metallica","alternative",1986,105,83,54,-9,15,56,"515",0,4,67
+"West End Girls - 2001 Remaster","Pet Shop Boys","pop",1986,113,95,65,-7,29,61,"286",1,4,68
+"Love Me Tender","Elvis Presley","oldies",2002,109,5,44,-16,11,31,"162",88,4,49
+"Geef Mij Je Angst","Guus Meeuwis","pop",2006,81,56,37,-11,97,42,"224",75,5,54
+"Starlight","Muse","rock",2006,122,87,55,-4,21,32,"240",0,3,73
+"Weekend Love","Golden Earring","rock",1979,167,74,49,-6,11,46,"255",28,4,44
+"Valerie (feat. Amy Winehouse) - Version Revisited","Mark Ronson","dance",2007,106,84,70,-5,12,89,"219",0,5,62
+"Because the Night","Patti Smith","pop",1978,123,80,44,-5,10,52,"205",5,4,66
+"Shut Your Eyes","Snow Patrol","rock",2006,125,74,69,-6,8,84,"197",15,3,42
+"Sterrenstof","De Jeugd Van Tegenwoordig","hip hop",2010,97,79,71,-4,20,90,"221",32,11,48
+"My Immortal","Evanescence","alternative",2003,79,27,19,-9,13,10,"263",86,4,74
+"Human","The Killers","rock",2008,135,80,56,-8,9,58,"245",0,6,73
+"Born to Run","Bruce Springsteen","rock",1975,146,94,27,-4,12,61,"270",1,10,73
+"Run","Snow Patrol","rock",2004,75,64,37,-6,17,20,"355",0,3,65
+"Pyro","Kings of Leon","rock",2010,115,61,37,-7,10,19,"251",1,4,66
+"She Flies On Strange Wings","Golden Earring","rock",1971,131,70,32,-8,11,25,"443",2,4,37
+"One Vision - Remastered 2011","Queen","rock",1986,120,92,46,-7,34,33,"311",4,26,49
+"Isn't She Lovely","Stevie Wonder","oldies",1976,119,83,48,-7,32,82,"394",18,9,67
+"Sailing to Philadelphia","Mark Knopfler","rock",2005,99,48,59,-10,9,15,"353",64,2,39
+"Hunger Strike","Temple Of The Dog","alternative",1990,138,57,37,-11,9,30,"246",2,3,59
+"You Win Again","Bee Gees","oldies",1987,169,83,55,-11,22,91,"241",9,3,63
+"San Quentin","Johnny Cash","country",2012,84,40,70,-14,90,82,"158",56,6,27
+"Try a Little Tenderness","Otis Redding","soul",1966,103,13,59,-15,26,7,"202",19,6,64
+"Could You Be Loved","Bob Marley & The Wailers","reggae",1980,103,72,92,-9,10,76,"237",36,10,77
+"Fairground","Simply Red","soul",1995,123,73,72,-6,8,62,"333",21,4,56
+"Bitter Sweet Symphony","The Verve","alternative",1997,171,92,36,-6,41,52,"357",3,5,78
+"Who'll Stop The Rain","Creedence Clearwater Revival","rock",1970,124,80,60,-7,7,62,"147",4,3,66
+"Kids","MGMT","alternative",2007,123,93,45,-4,36,17,"303",0,7,76
+"Eagle - Short Version","ABBA","pop",1993,86,83,41,-8,17,65,"263",0,3,41
+"Don't You Want Me","The Human League","rock",1981,118,74,73,-8,21,96,"237",18,4,74
+"A Slow Song","Joe Jackson","rock",1982,176,26,31,-19,7,19,"423",15,3,22
+"Mr Bojangles","Robbie Williams","dance",2001,137,33,51,-11,18,27,"198",72,11,58
+"Black Magic Woman","Santana","blues",2007,124,55,50,-7,9,63,"196",68,3,62
+"Knowing Me, Knowing You","ABBA","pop",1976,107,74,55,-7,24,90,"244",4,3,52
+"Dancin' Fool","Frank Zappa","rock",1979,133,64,55,-9,52,55,"223",41,15,40
+"Mull Of Kintyre - 1993 Digital Remaster","Wings","rock",1993,93,26,33,-15,12,42,"283",0,3,56
+"Royals","Lorde","pop",2013,85,43,67,-10,13,34,"190",12,12,79
+"Galway Girl","Ed Sheeran","pop",2017,100,88,62,-3,33,78,"171",7,10,80
+"The Real Slim Shady","Eminem","hip hop",2000,105,66,95,-4,5,76,"284",3,6,80
+"Follow the Sun","Xavier Rudd","folk",2012,124,39,61,-11,11,22,"255",53,4,67
+"Our House","Madness","dance",1983,122,65,60,-11,13,71,"201",3,6,58
+"Rooster","Alice In Chains","alternative",1992,144,55,27,-8,12,20,"374",3,3,68
+"No Diggity","Blackstreet","pop",1996,89,65,87,-5,28,67,"305",30,29,76
+"You Want It Darker","Leonard Cohen","folk",2016,109,33,67,-17,8,49,"284",61,6,63
+"Samba Pa Ti","Santana","blues",1970,92,36,41,-13,8,27,"285",83,3,63
+"Sing for Absolution","Muse","rock",2004,170,68,44,-7,9,19,"295",46,3,57
+"Spanish Stroll","Mink DeVille","rock",1977,129,45,75,-15,12,95,"220",42,6,47
+"When a Man Loves a Woman","Percy Sledge","soul",1966,97,15,52,-20,12,21,"174",13,3,66
+"You're The First, The Last, My Everything","Barry White","oldies",2009,131,72,64,-7,14,80,"213",1,4,67
+"Shotgun","George Ezra","folk",2018,116,74,67,-5,24,75,"201",29,5,82
+"Heaven For Everyone - Remastered 2011","Queen","rock",1995,110,43,60,-10,17,27,"336",29,3,49
+"Sky and Sand","Paul Kalkbrenner","electronic",2013,127,33,79,-13,19,53,"231",60,6,67
+"Alles Is Liefde","BLØF","pop",2007,144,77,51,-6,17,57,"210",0,4,36
+"I've Got Dreams to Remember","Otis Redding","soul",1992,142,28,39,-13,14,40,"196",50,3,49
+"Live And Let Die - Live","Paul McCartney","rock",2003,150,93,24,-3,97,23,"185",36,8,60
+"TRUE - Single Edit","Spandau Ballet","dance",2008,97,55,74,-9,6,35,"328",51,3,72
+"Cambodia","Kim Wilde","dance",2006,111,57,70,-8,11,71,"236",1,3,51
+"Cloudbusting","Kate Bush","pop",1985,113,25,68,-17,8,81,"310",70,3,60
+"Bombay","Golden Earring","rock",2008,125,92,52,-7,2,73,"234",2,5,34
+"Eye In The Sky","The Alan Parsons Project","rock",1982,112,42,82,-13,8,52,"276",56,3,67
+"Easy Lover","Philip Bailey","rock",1984,129,92,74,-5,8,93,"306",11,4,64
+"Guiding Light","Mumford & Sons","folk",2018,100,71,55,-8,8,30,"218",6,5,60
+"Always On My Mind","Elvis Presley","oldies",1973,181,39,36,-14,12,50,"218",75,3,61
+"What's Going On","Marvin Gaye","soul",1971,203,82,27,-6,36,81,"233",10,10,69
+"Do I Wanna Know?","Arctic Monkeys","rock",2013,85,53,55,-8,22,41,"272",19,3,82
+"Het Is Een Nacht... (Levensecht)","Guus Meeuwis","pop",1996,138,62,63,-7,16,50,"225",54,3,58
+"Memory","Barbra Streisand","oldies",1981,76,24,18,-15,11,12,"235",42,4,56
+"We Didn't Start the Fire","Billy Joel","rock",1989,145,97,71,-5,36,90,"288",8,5,73
+"Does Your Mother Know","ABBA","pop",1979,136,86,72,-6,6,97,"196",15,4,45
+"When I Come Around","Green Day","rock",1994,98,91,53,-4,23,81,"178",2,3,75
+"Can't Help Falling in Love","Elvis Presley","oldies",1961,100,29,40,-14,11,34,"182",94,3,78
+"Be My Number Two","Joe Jackson","rock",1984,110,31,40,-10,37,28,"260",34,3,52
+"Knights of Cydonia","Muse","rock",2006,137,96,37,-5,12,21,"366",0,14,69
+"The Wind Cries Mary","Jimi Hendrix","rock",1967,80,50,50,-11,20,34,"201",35,5,63
+"Video Games - Remastered","Lana Del Rey","pop",2012,122,26,39,-10,9,18,"282",81,3,55
+"Sign of the Times","Harry Styles","dance",2017,120,60,52,-5,11,22,"341",3,3,80
+"Seven Wonders - 2017 Remaster","Fleetwood Mac","rock",1987,119,63,71,-10,10,63,"222",3,3,63
+"Whiskey In The Jar","Thin Lizzy","rock",1972,128,69,56,-11,20,75,"345",53,4,63
+"Vienna","Ultravox","rock",1984,81,61,58,-10,11,46,"278",16,6,53
+"Streets","Kensington","pop",2014,168,77,38,-6,27,42,"185",0,4,57
+"Thank God It's Christmas - 2011 Remaster","Queen","rock",1984,86,42,30,-9,23,33,"262",22,3,72
+"Europa (Earth's Cry Heaven's Smile)","Santana","blues",2007,75,67,30,-5,15,68,"306",3,5,59
+"Despacito","Luis Fonsi","latin",2019,178,80,66,-5,7,84,"229",20,15,80
+"Sonne","Rammstein","alternative",2001,75,92,51,-5,40,31,"272",1,9,60
+"Fairytale of New York (feat. Kirsty MacColl)","The Pogues","rock",1988,119,65,32,-6,24,47,"272",50,3,83
+"Ghost Love Score","Nightwish","metal",2004,101,78,44,-5,29,19,"602",1,4,38
+"Der Weg","Herbert Grönemeyer","pop",2008,142,24,34,-11,12,19,"259",92,4,48
+"Don't Leave Me This Way (with Sarah Jane Morris)","The Communards","dance",1986,132,93,64,-6,13,90,"271",14,3,64
+"Without Me","Eminem","hip hop",2002,112,67,91,-3,24,66,"290",0,7,82
+"Otherside","Red Hot Chili Peppers","alternative",1999,123,80,46,-3,8,51,"255",0,6,78
+"Candle In The Wind 1997","Elton John","rock",1997,126,31,45,-8,17,37,"250",98,3,53
+"Firth of Fifth - New Stereo Mix","Genesis","rock",1973,85,60,27,-10,19,29,"575",2,4,41
+"All Summer Long","Kid Rock","alternative",2007,103,86,70,-4,10,89,"298",2,3,72
+"Strong","London Grammar","pop",2013,78,40,57,-11,8,30,"266",74,3,49
+"Wanted Dead Or Alive","Bon Jovi","metal",1986,150,80,25,-4,31,25,"309",13,4,73
+"I Follow Rivers - Live @ Giel!","Triggerfinger","rock",2010,110,41,67,-9,3,71,"214",15,6,42
+"Can You Feel The Love Tonight","Elton John","rock",1995,123,36,30,-9,10,15,"240",81,3,58
+"Down Under","Men At Work","rock",1996,107,79,75,-5,5,89,"221",5,3,74
+"Mijn Houten Hart","De Poema's","pop",2003,70,59,43,-6,9,25,"259",46,3,45
+"Een Beetje Verliefd","Andre Hazes","pop",2018,198,61,30,-7,15,33,"251",6,3,32
+"The Drugs Don't Work","The Verve","alternative",1997,77,52,44,-9,15,18,"305",18,3,64
+"Dancing with Tears in My Eyes","Ultravox","rock",1984,144,91,59,-8,60,93,"244",15,4,59
+"Miss You - Remastered","The Rolling Stones","rock",1978,110,71,80,-5,34,85,"289",44,4,67
+"Remedy","The Black Crowes","rock",1992,160,98,41,-4,8,35,"323",0,5,56
+"Goodbye Yellow Brick Road - Remastered 2014","Elton John","rock",1973,121,47,56,-8,15,40,"193",45,3,68
+"Spread Your Wings - 2011 Mix","Queen","rock",1977,175,66,39,-6,6,46,"274",28,3,50
+"American Pie","Don McLean","oldies",1971,138,48,53,-12,8,49,"517",70,6,74
+"Sorry","Nothing But Thieves","alternative",2017,128,78,67,-5,13,52,"215",0,3,62
+"Wêr Bisto","Twarres","pop",2001,88,32,52,-11,9,18,"226",33,2,48
+"The Dolphin's Cry","Live","alternative",1999,150,79,34,-6,14,43,"264",0,4,56
+"I'll Have To Say I Love You In A Song","Jim Croce","oldies",1973,134,51,51,-14,11,70,"152",78,3,53
+"Ring of Fire","Johnny Cash","country",1963,104,59,66,-8,35,78,"158",62,3,71
+"Bed Of Roses","Bon Jovi","metal",1992,165,60,31,-6,21,16,"394",10,3,73
+"Kissing a Fool","George Michael","dance",1998,117,27,39,-14,11,17,"275",17,3,56
+"Under the Bridge","Red Hot Chili Peppers","alternative",1991,85,35,56,-13,14,46,"264",6,5,81
+"I Wish","Stevie Wonder","oldies",1976,106,72,82,-10,7,89,"252",8,5,64
+"Happy Xmas (War Is Over)","John Lennon","rock",2015,147,68,40,-6,68,60,"212",18,3,47
+"In The Army Now","Status Quo","rock",2002,105,73,68,-8,14,94,"281",11,2,59
+"Drive","R.E.M.","alternative",1992,143,43,47,-12,23,24,"271",18,3,62
+"Killing Me Softly With His Song","Fugees","hip hop",1996,92,29,77,-17,57,51,"299",3,14,74
+"Self Esteem","The Offspring","alternative",2005,105,91,46,-4,36,61,"258",2,6,72
+"Spicks And Specks","Bee Gees","oldies",2001,123,63,65,-7,28,71,"172",78,3,47
+"Fake Plastic Trees","Radiohead","alternative",1995,74,23,45,-13,20,13,"291",17,3,70
+"Everlong - Acoustic Version","Foo Fighters","alternative",2009,144,34,64,-11,11,55,"251",91,3,69
+"Dancing In the Dark","Bruce Springsteen","rock",1984,149,94,53,-6,19,50,"241",1,4,77
+"Daughter (Remastered)","Pearl Jam","alternative",1993,97,70,62,-10,6,73,"234",1,3,68
+"Under My Thumb","The Rolling Stones","rock",1966,127,49,73,-14,9,80,"222",30,4,64
+"Sowing The Seeds Of Love","Tears For Fears","rock",1989,172,80,21,-7,36,68,"377",1,4,62
+"Right Next Door (Because Of Me)","Robert Cray","blues",2002,87,65,61,-8,5,79,"259",23,5,52
+"Cold Little Heart","Michael Kiwanuka","soul",2016,108,40,49,-8,14,15,"598",49,3,67
+"Rockin' in the Free World","Neil Young","rock",1989,132,88,49,-5,37,52,"282",0,3,65
+"Friends Will Be Friends - Remastered 2011","Queen","rock",1986,75,53,44,-8,34,35,"247",4,3,50
+"Fireflies","Owl City","pop",2009,180,66,51,-7,12,46,"228",3,4,79
+"Scenes from an Italian Restaurant","Billy Joel","rock",1977,98,93,42,-5,11,34,"457",41,13,60
+"With Or Without You - Remastered","U2","rock",1987,110,43,54,-12,14,11,"296",0,3,80
+"Sound Of The Screameng Day","Golden Earrings","rock",2008,138,55,59,-8,29,50,"171",0,3,26
+"Beautiful","Christina Aguilera","dance",2002,76,57,46,-4,11,10,"239",58,3,71
+"Suzanne","Leonard Cohen","folk",1967,132,17,41,-16,11,35,"229",92,4,66
+"You Say","Lauren Daigle","christian",2018,148,63,49,-7,9,8,"275",68,3,80
+"Learn to Fly","Foo Fighters","alternative",1999,136,92,47,-4,26,54,"235",0,4,74
+"Run To The Water","Live","alternative",1999,181,85,15,-5,9,29,"268",0,5,48
+"Learning To Fly","Tom Petty and the Heartbreakers","rock",1991,117,77,65,-10,36,95,"242",21,3,71
+"Guilty (feat. Barry Gibb)","Barbra Streisand","oldies",1980,151,43,63,-16,11,95,"264",23,4,67
+"Bridges","Kensington","pop",2016,150,83,38,-7,7,45,"220",0,6,49
+"Waitin' On A Sunny Day","Bruce Springsteen","rock",2002,106,82,58,-5,10,87,"256",1,3,59
+"Wonderwall - Remastered","Oasis","pop",1995,175,87,37,-5,23,48,"259",0,4,71
+"Long Blond Animal","Golden Earring","rock",1980,169,70,44,-8,28,78,"217",1,4,39
+"City Of Blinding Lights","U2","rock",2004,139,77,44,-4,11,20,"346",0,3,60
+"Sign 'O' the Times","Prince","funk",1987,198,52,70,-7,8,55,"303",1,10,54
+"Someone You Loved","Lewis Capaldi","pop",2018,110,41,50,-6,11,45,"182",75,3,85
+"Forever Young","Alphaville","dance",1984,137,48,49,-9,24,33,"227",42,3,74
+"Het Laatste Rondje - Remastered","Andre Hazes","pop",2018,103,76,53,-7,14,84,"258",6,4,33
+"If I Could Turn Back Time","Cher","dance",1989,108,57,66,-10,12,50,"240",24,3,72
+"Will You Be There - Single Version","Michael Jackson","pop",2005,83,63,41,-7,8,44,"220",51,7,53
+"After Midnight","J.J. Cale","blues",1971,96,31,69,-19,9,52,"144",17,4,62
+"Roll Over Lay Down - Live At The Kursaal, Southend / 1975","Status Quo","rock",2017,132,69,34,-9,34,21,"341",0,4,32
+"New York Minute","Don Henley","rock",1989,132,29,55,-12,4,12,"395",33,3,55
+"Jolene","Dolly Parton","country",1974,111,54,67,-11,13,81,"162",57,4,74
+"Free Fallin'","Tom Petty","rock",1989,84,45,62,-13,6,57,"256",21,3,76
+"I Gotta Feeling","The Black Eyed Peas","dance",2009,128,77,74,-6,51,61,"289",9,3,69
+"I Will Survive - Single Version","Gloria Gaynor","dance",1993,116,62,80,-13,32,64,"199",2,5,60
+"Stranger in Moscow","Michael Jackson","pop",1995,130,47,80,-9,32,59,"344",25,4,58
+"Peter Gunn Theme","Emerson, Lake & Palmer","rock",2010,131,83,43,-7,92,71,"217",1,3,14
+"Don't Stop - 2004 Remaster","Fleetwood Mac","rock",1977,119,72,67,-8,4,83,"193",4,4,67
+"She Sells Sanctuary","The Cult","rock",2000,139,77,55,-9,13,42,"253",0,3,63
+"Lazarus","David Bowie","rock",2016,130,70,66,-7,9,51,"382",5,3,61
+"Nights In White Satin - Single Version / Mono Mix","The Moody Blues","rock",1967,85,48,20,-5,7,17,"269",47,3,68
+"Beat It","Michael Jackson","pop",1995,139,80,76,-6,17,91,"258",3,4,60
+"I'd Rather Go Blind","Etta James","oldies",1968,83,43,48,-6,15,61,"157",69,2,67
+"Sexy Als Ik Dans","Nielson","pop",2014,94,54,79,-7,20,89,"215",9,5,49
+"Paradise By the Dashboard Light","Meat Loaf","rock",1977,173,87,33,-8,46,49,"508",21,12,67
+"Gimme! Gimme! Gimme! (A Man After Midnight)","ABBA","pop",1979,120,49,75,-10,22,53,"293",2,4,64
+"Belfast Child","Simple Minds","rock",2008,81,39,14,-13,10,30,"404",30,5,43
+"Proosten","Guus Meeuwis","pop",2010,136,65,64,-6,12,76,"232",43,3,49
+"Try","P!nk","dance",2012,104,63,67,-7,9,55,"248",0,3,73
+"Madness","Muse","rock",2012,180,42,50,-8,11,22,"281",13,7,70
+"Hier","BLØF","pop",2000,164,76,50,-8,14,58,"248",0,3,40
+"Bat Out of Hell","Meat Loaf","rock",1977,172,84,20,-8,29,39,"590",28,7,60
+"Isn't It Time","The Babys","rock",1977,117,93,52,-7,82,31,"244",39,10,49
+"Start Me Up - Remastered","The Rolling Stones","rock",1981,122,93,63,-4,9,97,"213",4,4,76
+"Stay - Album Version (Edited)","Rihanna","pop",2012,112,31,62,-10,12,13,"241",95,3,66
+"New Gold Dream (81/82/83/84)","Simple Minds","rock",2016,123,75,59,-11,34,66,"339",0,3,44
+"Virtual Insanity - Remastered","Jamiroquai","jazz",2006,92,95,66,-5,14,52,"229",13,11,69
+"Dust Bowl","Joe Bonamassa","blues",2011,86,75,52,-7,20,70,"273",36,5,44
+"Babel","Mumford & Sons","folk",2012,80,81,37,-6,8,65,"209",3,5,57
+"Set The Fire To The Third Bar","Snow Patrol","rock",2006,96,38,54,-7,8,39,"204",52,3,49
+"The First Time Ever I Saw Your Face","Roberta Flack","oldies",1969,121,3,31,-22,16,14,"261",73,4,64
+"Vivo per lei","Andrea Bocelli","oldies",1995,136,46,53,-6,18,29,"266",70,3,64
+"Theme From Mahogany (Do You Know Where You're Going To) - Single Version","Diana Ross","oldies",1976,140,42,32,-11,10,29,"204",55,3,49
+"Midnight Rambler","The Rolling Stones","rock",1969,75,66,40,-10,17,51,"413",77,12,50
+"In Between Days - 2006 Remaster","The Cure","dance",1985,143,83,54,-6,17,71,"178",11,3,54
+"Cocaine","Eric Clapton","rock",1977,105,50,70,-13,32,68,"222",6,3,68
+"Just the Way You Are","Billy Joel","rock",1977,139,45,59,-9,13,51,"291",70,4,68
+"Where Did You Sleep Last Night","Nirvana","alternative",1994,109,59,57,-8,69,36,"306",67,6,68
+"Polly","Nirvana","alternative",1994,115,39,62,-12,91,44,"196",68,4,57
+"Dodenrit","Drs. P","rock",2012,148,60,51,-14,81,96,"312",67,10,34
+"A Boy Named Sue (Live)","Johnny Cash","country",2011,105,46,52,-16,78,89,"218",93,5,18
+"Comptine d'un autre été, l'après-midi","Yann Tiersen","pop",2001,100,19,48,-15,11,6,"141",99,5,56
+"Dog Days Are Over","Florence + The Machine","pop",2009,150,81,49,-5,12,25,"252",4,8,69
+"Zoutelande - feat. Geike","BLØF","pop",2017,129,64,67,-7,14,89,"223",22,3,41
+"Traffic - Radio Edit","Tiësto","dance",2009,138,64,71,-10,19,10,"177",0,9,53
+"Relight My Fire - Single Version","Dan Hartman","dance",1979,120,66,79,-11,33,87,"226",1,4,52
+"Sex on Fire","Kings of Leon","rock",2008,153,91,54,-6,14,37,"203",0,5,79
+"Back Down South","Kings of Leon","rock",2010,117,62,48,-7,26,15,"241",6,4,58
+"Whiskey In The Jar","Metallica","alternative",1998,133,97,51,-4,19,53,"305",0,4,61
+"Wasted Time - 2013 Remaster","Eagles","rock",1976,118,17,43,-11,11,14,"296",42,4,54
+"Smoke on the Water","Deep Purple","rock",1972,114,59,63,-11,5,89,"342",10,3,64
+"25 or 6 to 4 - 2002 Remaster","Chicago","oldies",1970,147,91,60,-7,8,72,"290",31,6,64
+"I Have Nothing","Whitney Houston","dance",1992,153,40,54,-10,16,24,"289",58,4,73
+"Damn Those Eyes","Kane","pop",2011,172,76,34,-7,35,33,"251",0,4,39
+"Watermensen","3JS","pop",2013,144,40,56,-8,11,46,"209",66,3,36
+"Lookin' Out My Back Door","Creedence Clearwater Revival","rock",1970,105,66,75,-6,9,86,"152",19,4,67
+"Gold","Prince","funk",1995,90,86,53,-3,13,44,"443",0,3,46
+"You Know I'm No Good","Amy Winehouse","soul",2006,103,81,71,-4,7,73,"257",1,3,74
+"You Make Loving Fun - 2004 Remaster","Fleetwood Mac","rock",1977,127,60,62,-9,10,86,"217",1,3,58
+"Toen Ik Je Zag - Single Version","Hero","pop",1998,81,20,37,-14,30,14,"205",71,4,47
+"Somebody That I Used To Know","Gotye","pop",2011,129,50,86,-7,10,72,"245",59,4,76
+"I Have A Dream","ABBA","pop",1979,104,37,55,-12,17,46,"286",57,2,49
+"Shallow","Lady Gaga","dance",2018,96,39,57,-6,23,32,"216",37,3,88
+"New Kid in Town - 2013 Remaster","Eagles","rock",1976,107,43,65,-10,11,65,"305",38,3,64
+"Memories","Maroon 5","pop",2019,91,32,76,-7,8,57,"189",84,5,98
