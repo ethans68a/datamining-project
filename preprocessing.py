@@ -5,10 +5,10 @@ import csv
 
 def del_unwanted_chars(orig_val_param):
     if isinstance(orig_val_param,str):
-        orig_val = orig_val_param.replace("'", "")
-        orig_val = orig_val.replace('"',"")
+        # orig_val = orig_val_param.replace("'", "")
+        orig_val = orig_val_param.replace('"',"")
         return orig_val
-        
+
     return orig_val_param
 
 
@@ -63,6 +63,6 @@ print(spotify_data.shape)
 
 spotify_data.head().to_html("html/head.html", index=False)
 spotify_data.to_csv("csv/spotify-2000-clean.csv",
-                    index=False, quoting=csv.QUOTE_MINIMAL)
+                    index=False, quoting=csv.QUOTE_NONNUMERIC)
 spotify_data.to_excel("excel/spotify-2000-clean.xlsx", index=False)
 spotify_data.to_json("json/spotify-2000-clean.json", orient="records")
