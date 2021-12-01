@@ -68,6 +68,7 @@ spotify_data.to_csv("csv/spotify-2000-clean.csv",
                     index=False, quoting=csv.QUOTE_NONNUMERIC)
 spotify_data.to_json("json/spotify-2000-clean.json", orient="records")
 
+raise SystemExit
 # create training and testing data sets
 training_test_list = train_test_split(
     spotify_data, shuffle=True, train_size=0.70, test_size=0.30)
