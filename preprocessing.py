@@ -65,3 +65,6 @@ spotify_data.head().to_html("html/head.html", index=False)
 spotify_data.to_csv("csv/spotify-2000-clean.csv",
                     index=False, quoting=csv.QUOTE_NONNUMERIC)
 spotify_data.to_json("json/spotify-2000-clean.json", orient="records")
+
+# create training and testing data sets
+
