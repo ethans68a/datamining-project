@@ -4,16 +4,16 @@ import csv
 import itertools
 from sklearn.model_selection import train_test_split
 
+
 def str_to_int_cleaner(orig_val):
     try:
         val_as_int = int(orig_val)
         return val_as_int
     except ValueError as e:
-        return orig_val 
+        return orig_val
 
 
-
-def del_unwanted_char(orig_val_param,what_char='"'):
+def del_unwanted_char(orig_val_param, what_char='"'):
     if isinstance(orig_val_param, str):
         # orig_val = orig_val_param.replace("'", "")
         orig_val = orig_val_param.replace(what_char, "")
@@ -58,7 +58,8 @@ spotify_data = pd.read_csv("csv/Spotify-2000.csv")
 
 # apply function to each record, apply to TopGenre column
 spotify_data["TopGenre"] = spotify_data["TopGenre"].apply(clean_genres)
-spotify_data["Length (Duration)"] = spotify_data["Length (Duration)"].apply(del_unwanted_char,args=(','))
+spotify_data["Length (Duration)"] = spotify_data["Length (Duration)"].apply(
+    del_unwanted_char, args=(','))
 
 # fix characters
 spotify_data = spotify_data.applymap(del_unwanted_char)
@@ -79,7 +80,7 @@ spotify_data.to_csv("csv/spotify-2000-clean.csv",
                     index=False, quoting=csv.QUOTE_NONNUMERIC)
 spotify_data.to_json("json/spotify-2000-clean.json", orient="records")
 
-raise SystemExit # we will use weka or do training testing as needed
+raise SystemExit  # we will use weka or do training testing as needed
 # create training and testing data sets
 training_test_list = train_test_split(
     spotify_data, shuffle=True, train_size=0.70, test_size=0.30)
