@@ -3,12 +3,15 @@ library(leaps)
 setwd("~/Documents/Fall-2021/datamining/spotify-project")
 spotify_clean <- read.csv("csv/spotify-2000-clean.csv")
 spotify_df <- data.frame(spotify_clean)
-spotify_tr_df <- spotify_df[1:1200, ]
-spotify_test_df <- spotify_df[1201:nrow(spotify_df), ]
+spotify_tr_df <- spotify_df[1:1200,]
+spotify_test_df <- spotify_df[1201:nrow(spotify_df),]
 
 # remove irrelevant attributes
 spotify_tr_df_valence <-
   subset(spotify_tr_df,
+         select = -c(Title, Artist, Year, Popularity, TopGenre))
+spotify_test_df <-
+  subset(spotify_test_df,
          select = -c(Title, Artist, Year, Popularity, TopGenre))
 
 # multiple linear regression, numeric only - predict valence
@@ -30,7 +33,8 @@ for (colname in names_clean) {
   )
 }
 
-X <- spotify_tr_df_valence[, !names(spotify_tr_df_valence) %in% c("Valence")]
+X <-
+  spotify_tr_df_valence[,!names(spotify_tr_df_valence) %in% c("Valence")]
 y <- spotify_tr_df_valence[, "Valence"]
 out <-
   summary(regsubsets(X, y, nbest = 2, nvmax = ncol(X))) # 'nbest' is the number of top models shown for subset size
@@ -38,3 +42,7 @@ tab1 <-
   cbind(out$which, out$rsq, out$adjr2, out$cp) # organize the results into a table
 print(tab1)
 step(m1)
+
+pred1 <- predict.lm(m1, newdata = spotify_test_df, type = "response")
+
+spotify_table_preds <- cbind(spotify_test_df,pred1)
