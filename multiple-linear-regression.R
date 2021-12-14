@@ -1,4 +1,5 @@
 library(leaps)
+library(MLmetrics)
 
 setwd("~/Documents/Fall-2021/datamining/spotify-project")
 spotify_clean <- read.csv("csv/spotify-2000-clean.csv")
@@ -46,3 +47,5 @@ step(m1)
 pred1 <- predict.lm(m1, newdata = spotify_test_df, type = "response")
 
 spotify_table_preds <- cbind(spotify_test_df,pred1)
+
+print(MAPE(spotify_table_preds$pred1,spotify_table_preds$Valence))
