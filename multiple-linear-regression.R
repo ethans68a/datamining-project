@@ -7,7 +7,7 @@ spotify_df <- data.frame(spotify_clean)
 spotify_tr_df <- spotify_df[1:1200,]
 spotify_test_df <- spotify_df[1201:nrow(spotify_df),]
 
-# remove irrelevant attributes
+# remove irrelevant (categorical) attributes
 spotify_tr_df_valence <-
   subset(spotify_tr_df,
          select = -c(Title, Artist, Year, Popularity, TopGenre))
